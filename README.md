@@ -1,19 +1,22 @@
 # High-Performance Computing (Resources and Capabilities)
 
 
-![https://github.com/wsphd/csun-hpc](images/qr.svg "https://github.com/wsphd/csun-hpc")\
-<https://github.com/wsphd/csun-hpc/>
+![https://github.com/wsphd/csun-hpc](images/qr.svg "https://github.com/wsphd/csun-rsp")\
+<https://github.com/wsphd/csun-rsp/>
 
 **"High-Performance Computing (Resources and Capabilities)**\
-**California State University, Northridge (CSUN)**
+**"Brief for Office of Research and Sponsorded Programs**\
+**"Ranjit Philip and Wayne Smith**\
+**California State University, Northridge (CSUN)**\
+**Date (tbd)**
 
 
 ## Introduction/Background/Motivation
 
-* Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
+* Some faculty need more computing, storage, or networking than the the CSU or University can provide.Most faculty are fine Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
   * But double-check new methodologies and growth (and by extension, movement) of data
 
-* Some $\frac{n_j}{N}$ needs are $\gt$ contemporary desktop/laptop and software
+* However, there are some $\frac{n_j}{N}$ needs are $\gt$ contemporary desktop/laptop and software
   * Essentially, "compute-intensive, data-intensive, or network-intensive"
   * Use primarily FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
 
