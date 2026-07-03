@@ -23,7 +23,8 @@
 
 * Some faculty need more computing, storage, or networking than the University can provide.
   * chiefly driven by growth of data (mostly STEM but SocialSTEM, Business, CTVA, Digital Humanities, etc. too)
-  * partly driven by diminishing returns to Moore's law (need more <ins>G</ins>PUs than <ins>CPUs</ins>)
+  * partly driven by diminishing returns to Moore's law (need more <ins>G</ins>PUs than <ins>C</ins>PUs)
+  * partly driven by shift from closed-form (equations) analysis to iterative-based (algorithms) analysis)
   * partly driven by institutional mission (teaching always primary but research still there and still important)
 
 
@@ -32,10 +33,13 @@
 * CSUN is a big place--there are many faculty doing interesting things with HPC
 
 * Some folks need help with both on-premisis infrastructure and remote infrastucture (clusters)
-  * Ravi Absol (Chem), Xunfei Jiang (CompSci), Rachel Mackelprang (Bio), 
+  * Ravi Absol (Chem), Xunfei Jiang (CompSci), Rachel Mackelprang (Bio)
 
 * Some folks need help with just remote infrastructure (clusters)
-  * Regan Mass (Geography), Xiyi Hang (ECS), Scott Kleinman
+  * Regan Mass (Geography), Xiyi Hang (ECS), Scott Kleinman (English)
+
+* Some folks need help with just knowing about the resources (and their grad. students can do the rest)
+  * Nhut Ho (MechEng), Marjan Asadinia (CompSci)
 
 * Some folks need help with just seeing a complete analytical workflow (application) from scratch
   * Dongling Huang (Marketing), Akash Gupta (SysOpsMgt), Yuan Lu (Accountancy)
@@ -43,6 +47,8 @@
 * Some folks don't need any help at all (i.e., **I learn from them**)
   * Steve Fitzgerald (CompSci), Jussi Eloranta (Chem), Nick Kioussis (Physics), Jeremy Yoder (Bio), Bingbing Li (MSE)
   * and others I don't even know...
+
+* And there are still plenty of folks for whom a (University provided) notebook PC, Box, and, say, SPSS is fine
 
 
 ## JupyterHub
@@ -77,7 +83,9 @@
 
 * Oregon State University Open Source Lab (OSL)
 
-* [D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)]
+* D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)
+
+* Although not widely known, nearly all of those resources can be used for instruction and can be used by students (research/instruction)
 
 
 ## Conferences/Fellowships
