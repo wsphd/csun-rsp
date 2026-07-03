@@ -4,43 +4,19 @@
 ![https://github.com/wsphd/csun-hpc](images/qr.svg "https://github.com/wsphd/csun-rsp")\
 <https://github.com/wsphd/csun-rsp/>
 
-**"High-Performance Computing (Resources and Capabilities)**\
-**"Brief for Office of Research and Sponsorded Programs**\
-**"Ranjit Philip and Wayne Smith**\
+**High-Performance Computing (Resources and Capabilities)**\
+**Brief for Office of Research and Sponsorded Programs**\
+**Ranjit Philip and Wayne Smith**\
 **California State University, Northridge (CSUN)**\
-**Date (tbd)**
+**Fall, 2026**
 
 
 ## Introduction/Background/Motivation
 
-* Some faculty need more computing, storage, or networking than the the CSU or University can provide.Most faculty are fine Some $\frac{n_i}{N}$ needs are $\le$ contemporary desktop/laptop and software
-  * But double-check new methodologies and growth (and by extension, movement) of data
-
-* However, there are some $\frac{n_j}{N}$ needs are $\gt$ contemporary desktop/laptop and software
-  * Essentially, "compute-intensive, data-intensive, or network-intensive"
-  * Use primarily FOSS (Linux, Open Source, etc.) to complement COTS (Windows, SPSS, etc.)
-
-* Private, "on-premises" servers (contact: [Zack Hillbruner](mailto:zack.hillbruner@csun.edu), _CSUN IT_)
-  * Usually purchased by an individual faculty member or Dept. (often with a grant or project)
-  * Usually located in the on-campus CSUN MDF
-  * CSUN IT usually racks and networks the system; Users manage the system and applications
-
-* Public Cloud "free" scholars/learners (AWS, GCP, MS-Azure, OCI, Digital Ocean, etc.)
-  * Use "free-tier" (still need to provide a credit card)
-  * Purchase credits with a credit card
-
-* Public Cloud "grants/credits" for scholars (AWS, GCP, MS-Azure, IBM, OCI, Digital Ocean, etc.)
-  * [Cloudbank Enterprise](https://cbe.ucsd.edu/)
-  * [AWS Cloud Credits for Research (AWS)](https://aws.amazon.com/grants/)
-  * [Google AI for Science (Google)](https://blog.google/innovation-and-ai/technology/ai/ai-science-forum-2024/)
-  * [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/a/ocom/docs/corporate/research-application-example.pdf)
-  * [MS Azure Quantum Credits (Azure)](https://microsoft.qualtrics.com/jfe/form/SV_3fl9dfFrkC3g0aG?aq_source=acom)
-  * [IBM Quantum Credits (IBM)](https://www.ibm.com/quantum/blog/quantum-credits)
-  * [Digital Ocean Credits (Digital Ocean)](https://www.digitalocean.com/open-source/credits-for-projects)
-
-* Or?
-  * NSF-funded, multi-year, inter-institution, STEAM/SocialSTEM, R3s/CCC's too
-  * [CSUN IT Technology Resources for Research](https://www.csun.edu/it/technology-resources-research)
+* Some faculty need more computing, storage, or networking than the University can provide.
+  * chiefly driven by growth of data (mostly STEM but SocialSTEM, Business, CTVA, Digital Humanities, etc. too)
+  * partly driven by diminishing returns to Moore's law (need more <ins>G</ins>PUs than <ins>CPUs</ins>)
+  * partly driven by institutional mission (teaching always primary but research still there and still important)
 
 
 ## General Advanced Computing/Data Management
