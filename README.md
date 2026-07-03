@@ -16,7 +16,7 @@
 * I've removed the links on this page so that we can focus on our discussion.
   * [CSUN IT/FTC Technology Resources for Research](https://www.csun.edu/it/academic-technology/faculty-technology-center-ftc/technology-resources-research)
   * [Wayne's CSUN High-Performance Computing Resources](https://github.com/wsphd/csun-hpc)
-    * This presentation is mostly adapted from this web page, so further links are there (same headings).
+    * This presentation is mostly adapted from this web page, so further links are there (same general order and headings).
 
 
 ## Introduction/Background/Motivation
@@ -38,10 +38,10 @@
   * Regan Mass (Geography), Xiyi Hang (ECS), Scott Kleinman
 
 * Some folks need help with just seeing a complete analytical workflow (application) from scratch
-  * Dongling Wang (Marketing), Akash Gupta (SysOpsMgt), Yuan Lu (Accountancy)
+  * Dongling Huang (Marketing), Akash Gupta (SysOpsMgt), Yuan Lu (Accountancy)
 
 * Some folks don't need any help at all (i.e., **I learn from them**)
-  * Steve Fitzgerald (CompSci), Jussi Eloranta (Chem), Nick Kioussis (Physics), Jeremy Yoder (Bio), bingbing Li (MSE)
+  * Steve Fitzgerald (CompSci), Jussi Eloranta (Chem), Nick Kioussis (Physics), Jeremy Yoder (Bio), Bingbing Li (MSE)
   * and others I don't even know...
 
 
@@ -77,7 +77,7 @@
 
 * Oregon State University Open Source Lab (OSL)
 
-* [D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)](https://www.dwavequantum.com/learn/training/)
+* [D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)]
 
 
 ## Conferences/Fellowships
