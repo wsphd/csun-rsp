@@ -69,7 +69,10 @@
 
 ## High-Performance Computing Resources
 
-* National Science Foundation (NSF, mostly Office of Advanced Cyberinfrastructure)
+* National Science Foundation (NSF)
+  * mostly Office of Advanced Cyberinfrastructure (OAC)
+  * some Division of Computer and Network Systems (CNS)
+
   * Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support-Cyber Infrastructure (ACCESS-CI)
     * Jetstream2 (from Indiana University)
     * and about 30 more Resource Providers
@@ -95,6 +98,14 @@
 * D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)
 
 * Although not widely known, nearly all of those resources can be used for instruction and can be used by students (research/instruction)
+
+* AI-related resources
+  * Jetstream2 (IU) offers 8 petaflops of capacity for AI models (mostly open weight models--pre-built and custom)
+    * this can be used for high-end users with big AI requirements and little or no AI budget
+  * NRP hosts 74 GPUs just for open-weight (open source) AI models via OpenWebUI (GUI) or the OpenAI API (just like ChatGPT)
+    * this can be used for high-end users with big AI requirements and little or no AI budget
+    * within reason, there are no limits (for now)
+  * NSF offers a new system (National Deep Inference Project-nsf.ai) only for AI research (including by students)
 
 
 ## Conferences/Fellowships
@@ -213,23 +224,38 @@
   * The Navigation Fund (generally, open science)
 
 
+## Some Things that Have Been Done
+
+* Wayne S. (DNCBE)
+  * Initial Faculty Conversations
+    * has briefed all relevant Faculty Senate standing committees but the Library Committee (need to go at some point)
+    * has presented at a Faculty Retreat (we have more time there)
+  * has attended multiple regional and national meetings at no cost (CSU/CSUN or College/Dept)
+  * has helped some faculty and a few students
+  * is an "admin" on NRP
+  * Appointed to the NSF ACCESS Researcher Advisory Committee
+
+* Zack H. (CSUN IT)
+    * coordinated the built-out of the infrastructure (systems and network) to connect to the NRP as a full participant
+    * has presented at a Faculty Retreat (we have more time there)
+    * is an "admin" on NRP
+    * others
+
+
 ## Open Issues
 
-* Initial Faculty Conversations
-  * Wayne has been to all relevant Faculty Senate standing committees but the Library Committee
-  * Wayne needs to go to the Library Committee at some point
-* Wayne and Zack have presented at two Faculty Senate Retreats
-  * This gives us more time to answer technical/technological questions and do one-on-one consultations with faculty
-* This is definitely an "all of University" issue (see "CaRCC" five "faces" above)
+* Research Computing and Data (RCD) is definitely an "all of University" issue (see "CaRCC" five "faces" above)
   * The campus needs to decide its posture on research support in general and research computing/data support specifically
     * (aligned with existing campus strategy)
   * The campus will need "wrap-around" analysis and support from multiple units
   * The campus need some type of organizing/advisory body at some point
-  * We need Research Computing "Fellows" just like have in other places
+  * The campus would benefit from Research Computing "Fellows" just like have in other places
 * Some cultural changes
   * For this type of work, we will need to embrace open source (the CSU should have an Open Source Program Office too)
   * For this type of work, everyone needs to know that there is some learning curve (but Wayne tries to keep it low)
-  * We need to also brief the DFOs (without chargebacks, like for AWS, the Dean's Office might know what people are doing)
+  * We need to also brief the DFOs
+    * without chargebacks, like for AWS, the Dean's Office might know what people are doing
+    * at some point, there might be "token budgets" for expensive AI uses beyond the OpenAI contract
 * We need to go to the Provost's Council
   * For one thing, research is discipline-specific and very individualistic (even most so than instruction)
 * Each administrator and staff member can meet with at least one counterpart at another CSU campus on this issue
