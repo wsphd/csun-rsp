@@ -231,9 +231,13 @@
     * has briefed all relevant Faculty Senate standing committees but the Library Committee (need to go at some point)
     * has presented at a Faculty Retreat (we have more time there)
   * has attended multiple regional and national meetings at no cost (CSU/CSUN or College/Dept)
+  * has developed initial relationships with key players in SoCal and within the CSU (and assisted other campuses too)
   * has helped some faculty and a few students
+  * has tried to ensure that all resources are available to all faculty and students (especially historically underrepresented)
+  * has tried to ensure that NSF-funded resources can be used productively by NIH-type researchers if NIH monies continue to dry up
   * is an "admin" on NRP
-  * Appointed to the NSF ACCESS Researcher Advisory Committee
+  * Appointed to the NSF ACCESS Researcher Advisory Committee (1 year of a three year appointment)
+  * have been asked by the NSF to apply for a rotating position in NSF (not interested)
 
 * Zack H. (CSUN IT)
     * coordinated the built-out of the infrastructure (systems and network) to connect to the NRP as a full participant
