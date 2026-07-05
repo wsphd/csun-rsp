@@ -25,7 +25,8 @@
   * chiefly driven by growth of data (mostly STEM but SocialSTEM, Business, CTVA, Digital Humanities, etc. too)
   * partly driven by diminishing returns to Moore's law (need more <ins>G</ins>PUs than <ins>C</ins>PUs)
   * partly driven by shift from closed-form (equations) analysis to iterative-based (algorithms) analysis)
-  * partly driven by institutional mission (teaching always primary but research still there and still important)
+  * partly driven by campus distinctive mission (teaching always primary but research still there and still important)
+  * partly driven by leadership (we have to prioritize resources and capabilities)
 
 
 ## Faculty/Disciplines
@@ -50,6 +51,14 @@
 
 * And there are still plenty of folks for whom a (University provided) notebook PC, Box, and, say, SPSS is fine
 
+* Help from around the CSU
+  * CSU Chancellor's Office - Matt Hughes (Engineering), Kendra Ard (Applications), Carol Kiliany (RCTA group coordination)
+  * Cal Poly Humboldt - Ravi Chalasani (Engineering and Applications)
+  * CSU Dominguez Hills - Bill Elbettar (Engineering and Applications)
+  * CSU Fullerton - Willie Peng (Engineering and Applications), Dhusdee Chandswang (Identity Management)
+  * CSU San Bernardino - Dung Vu (Engineering and Applications), Nabeel Alzahrani (Data)
+  * San Diego State - Henry Li (Engineering/especially CENIC AIR-TIDE), Kyle Krick (Applications)
+
 
 ## JupyterHub
 
@@ -60,7 +69,7 @@
 
 ## High-Performance Computing Resources
 
-* National Science Foundation (NSF)
+* National Science Foundation (NSF, mostly Office of Advanced Cyberinfrastructure)
   * Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support-Cyber Infrastructure (ACCESS-CI)
     * Jetstream2 (from Indiana University)
     * and about 30 more Resource Providers
@@ -183,10 +192,10 @@
   * Pegasus Scientific Workflow Management (PEGASUS)]
 
 * Staff - These HPC resources should be of use to _Staff_ over time.
-  * [US Research Software Engineering Association (US-RSE)]
-    * career path, professional society, conferences, etc.
   * [Campus Research Computing Consortium (CaRCC)]
     * five "faces" of research computing - Researcher-facing, Systems-facing, Data-facing, Strategy and Policy-facing, Emerging Centers-facing 
+  * [US Research Software Engineering Association (US-RSE)]
+    * career path, professional society, conferences, etc.
 
 * Sundry - These charitable organizations occasionally provide funding for HPC-related and scientific software.
   * Chan/Zuckberberg Initiative (Essential Open Source Software for Science (Cycle 6))
@@ -203,4 +212,33 @@
   * The Neuro - Irv and Helga Cooper Foundation (generally, open science)
   * The Navigation Fund (generally, open science)
 
+
+## Open Issues
+
+* Initial Faculty Conversations
+  * Wayne has been to all relevant Faculty Senate standing committees but the Library Committee
+  * Wayne needs to go to the Library Committee at some point
+* Wayne and Zack have presented at two Faculty Senate Retreats
+  * This gives us more time to answer technical/technological questions and do one-on-one consultations with faculty
+* This is definitely an "all of University" issue (see "CaRCC" five "faces" above)
+  * The campus needs to decide its posture on research support in general and research computing/data support specifically
+    * (aligned with existing campus strategy)
+  * The campus will need "wrap-around" analysis and support from multiple units
+  * The campus need some type of organizing/advisory body at some point
+  * We need Research Computing "Fellows" just like have in other places
+* Some cultural changes
+  * For this type of work, we will need to embrace open source (the CSU should have an Open Source Program Office too)
+  * For this type of work, everyone needs to know that there is some learning curve (but Wayne tries to keep it low)
+  * We need to also brief the DFOs (without chargebacks, like for AWS, the Dean's Office might know what people are doing)
+* We need to go to the Provost's Council
+  * For one thing, research is discipline-specific and very individualistic (even most so than instruction)
+* Each administrator and staff member can meet with at least one counterpart at another CSU campus on this issue
+  * (on the IT side, see my brief list above)
+* There is a Research conference from STEM*NET at CSU Fullerton next semester
+  * We should go (although, to be honest, CSUSUPERB can be a good affinity group too)
+* There are many programmatic and instructional touchpoints too
+  * For example, LACCD is attached to the NRP (with the servers at LAVC)
+  * Far beyond JuypterHub, a non-chargeback system for sandboxing and experimentation is huge
+  * We should go (although, to be honest, CSUSUPERB can be a good affinity group too)
+* Eventually, Wayne can't do this forever (and is the wrong person anyway)
 
