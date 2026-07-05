@@ -250,8 +250,10 @@
   * The campus will need "wrap-around" analysis and support from multiple units
   * The campus need some type of organizing/advisory body at some point
   * The campus would benefit from Research Computing "Fellows" just like have in other places
+  * We need recurring, regularlized activity - like FacDev and IT (and others) do now
 * Some cultural changes
-  * For this type of work, we will need to embrace open source (the CSU should have an Open Source Program Office too)
+  * For this type of work, we will need to embrace open source software
+    * (the CSU should have an Open Source Program Office too)
   * For this type of work, everyone needs to know that there is some learning curve (but Wayne tries to keep it low)
   * We need to also brief the DFOs
     * without chargebacks, like for AWS, the Dean's Office might know what people are doing
