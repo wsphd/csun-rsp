@@ -23,10 +23,11 @@
 
 * Some faculty need more computing, storage, or networking than the University can provide.
   * chiefly driven by growth of data (mostly STEM but SocialSTEM, Business, CTVA, Digital Humanities, etc. too)
+    * Everyone (esp. Faculty) wants replication, reproducibility, and robustness
+    * Everyone (esp. Admininstration) wants scale, sustainability, and support
   * partly driven by diminishing returns to Moore's law (need more <ins>G</ins>PUs than <ins>C</ins>PUs)
-  * partly driven by shift from closed-form (equations) analysis to iterative-based (algorithms) analysis
-  * partly driven by campus distinctive mission (teaching always primary but research still there and still important)
-  * partly driven by leadership (we have to prioritize resources and capabilities)
+  * partly driven by shift from closed-form (equations) data analysis to iterative-based (algorithms) data analysis
+  * partly driven by campus distinctive mission (even similarly-sized CSUs are unique)
 
 
 ## Faculty/Disciplines
@@ -241,6 +242,7 @@
   * Initial Faculty Conversations
     * has briefed all relevant Faculty Senate standing committees but the Library Committee (need to go at some point)
     * has presented at a Faculty Retreat (we have more time there)
+    * has briefed both prior ECS and SCM Deans
   * has attended multiple regional and national meetings at no cost (CSU/CSUN or College/Dept)
   * has developed initial relationships with key players in SoCal and within the CSU (and assisted other campuses too)
   * has helped some faculty and a few students
