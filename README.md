@@ -266,6 +266,12 @@
   * The campus need some type of organizing/advisory body at some point
   * The campus would benefit from Research Computing "Fellows" just like have in other places
   * We need recurring, regularlized activity - like FacDev and IT (and others) do now
+
+* Still, there are unresolved issues
+  * Persistent storage (with, perhaps, F.A.I.R. principles, etc.)
+  * The above systems can do CUI (follow the NSF rules) but not classified, HIPPA, or ITAR data
+    * e.g., new M.S. in Health Analytics (but there are others)
+
 * Some cultural changes
   * For this type of work, we will need to embrace open source software
     * (the CSU should have an Open Source Program Office too)
@@ -273,15 +279,20 @@
   * We need to also brief the DFOs
     * without chargebacks, like for AWS, the Dean's Office might know what people are doing
     * at some point, there might be "token budgets" for expensive AI uses beyond the OpenAI contract
+
 * We need to go to the Provost's Council
   * For one thing, research is discipline-specific and very individualistic (even most so than instruction)
+
 * Each administrator and staff member can meet with at least one counterpart at another CSU campus on this issue
   * (on the IT side, see my brief list above)
+
 * There is a Research conference from STEM*NET at CSU Fullerton next semester
   * We should go (although, to be honest, CSUSUPERB can be a good affinity group too)
+
 * There are many programmatic and instructional touchpoints too
   * For example, LACCD is attached to the NRP (with the servers at LAVC)
   * Far beyond JuypterHub, a non-chargeback system for sandboxing and experimentation is huge
   * We should go (although, to be honest, CSUSUPERB can be a good affinity group too)
+
 * Eventually, Wayne can't do this forever (and is the wrong person anyway)
 
