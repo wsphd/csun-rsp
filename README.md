@@ -61,12 +61,12 @@
   * CSU Bakersfield - Alberto Cruz (Applications), Brian Chen (Admin), Chris Diniz (Admin), Charles Lam (Applications), Ernest Richards (Engineering), Nick Rowland (Engineering), Joe Nailor (Engineering), Jaimi Paschal (Applications), Anjana Yatawara (Applications)
   * CSU Chico - Scott Clavarie (Engineering), Elbert Chan (Engineering)
   * CSU Dominguez Hills - Bill Elbettar (Engineering and Applications)
-  * CSU Fresno - Bao John (Admin), Vinay Gowdra-Halappa (Engineering)
   * CSU Fullerton - Willie Peng (Admin and Engineering), Dhusdee Chandswang (Identity Management)
   * CSU Monterey Bay - Rick Sibinski (Engineering)
   * CSU Northridge - Zack Hillbruner (IT, Engineering), Yolanda Barrett (ECS, Applications)
   * CSU Sacramento - Peggy Kay (Admin), Mark Hendricks (Admin), Carl Oakes (Engineering)
   * CSU San Bernardino - Dung Vu (Engineering and Applications), James Macdonnell (Applications), Nabeel Alzahrani (Data), Samuel Sudhaker (Admin), Gerald Au (Admin)
+  * Fresno State - Bao John (Admin), Vinay Gowdra-Halappa (Engineering)
   * San Diego State - Henry Li (Engineering/especially CENIC AIR-TIDE), Kyle Krick (Applications), Michael Farley (Admin), James Frazee (Admin), Anthony Harris (Engineering)
 * (at CSUN each service Department needs to find their counterparts)
 
