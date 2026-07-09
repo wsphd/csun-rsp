@@ -23,8 +23,8 @@
 
 * Some faculty need more computing, storage, or networking than the University can provide.
   * chiefly driven by growth of data (mostly STEM but SocialSTEM, Business, CTVA, Digital Humanities, etc. too)
-    * Everyone (esp. Faculty) wants replication, reproducibility, and robustness
-    * Everyone (esp. Admininstration) wants scale, sustainability, and support
+    * Everyone (especially Faculty) wants replication, reproducibility, and robustness
+    * Everyone (especially Admininstration) wants scale, sustainability, and support
   * partly driven by diminishing returns to Moore's law (need more <ins>G</ins>PUs than <ins>C</ins>PUs)
   * partly driven by shift from closed-form (equations) data analysis to iterative-based (algorithms) data analysis
   * partly driven by campus distinctive mission (even similarly-sized CSUs are unique)
@@ -92,7 +92,6 @@
       * public clouds (e.g., Amazon Web Services, Google Compute Platform, MS-Azure, etc.)
   * National Research Platform (NRP)
   * National Data Platform (NDP)
-  * NSF National Artificial Intelligence Research Resource Pilot (NAIIR)
   * FABRIC is Adaptive ProgrammaBle Research Infrastructure for Computer Science and Science Applications (FABRIC)
   * PATh High-Throughput Computing (PATh) (OSG batch-style processing)
 
@@ -109,7 +108,16 @@
 
 * D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)
 
-* Although not widely known, nearly all of those resources can be used for instruction and can be used by students (research/instruction)
+* Although not widely known, nearly all of those resources can 1), can be used by students (research/instruction), and 2), be used for instruction
+
+* HPC-related NSF initiatives
+  * National Artificial Intelligence Research Resource Pilot
+  * (TIP) AI Ready America
+  * (CISE) Expeditions in Computing
+  * (OAC)
+    * Integated Systems and Services
+    * Campus Cyberinfrastructure (CC*)
+    * Cyberinfrastructure for Sustained Scientific Innovation
 
 * AI-related resources
   * Jetstream2 (IU) offers 8 petaflops of capacity for AI models (mostly open weight models--pre-built and custom)
@@ -265,6 +273,8 @@
   * The campus needs to decide its posture on research support in general and research computing/data support specifically
     * (aligned with existing campus strategy)
   * The campus will need "wrap-around" analysis and support from multiple units
+    * "intake" form
+    * "referral" procedure
   * The campus need some type of organizing/advisory body at some point
   * The campus would benefit from Research Computing "Fellows" just like have in other places
   * We need recurring, regularlized activity - like FacDev and IT (and others) do now
