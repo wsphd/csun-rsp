@@ -57,7 +57,7 @@
 
 * IT-ish Help on Research Computing and Data from around the CSU
   * CSU Chancellor's Office - Matt Hughes (Engineering), Kendra Ard (Applications), Carol Kiliany (Systemwide RCTA group coordination)
-  * Cal Poly Humboldt - Ravi Chalasani (Applications), Casey Hefner (Engineering), Cade Webb (Admin), Bethany Gilden (Admin)
+  * Cal Poly Humboldt - Ravi Chalasani (Applications), Casey Hefner (Engineering), A. Cade Webb (Admin), Bethany Gilden (Admin), Brian Campbell (Applications)
   * Cal Poly Pomona - Alex Harwood (Admin), David Drivdahl (Applications), Curtis Carpenter (Engineering and Applications)
   * CSU Bakersfield - Alberto Cruz (Applications), Brian Chen (Admin), Chris Diniz (Admin), Charles Lam (Applications), Ernest Richards (Engineering), Nick Rowland (Engineering), Joe Nailor (Engineering), Jaimi Paschal (Applications), Anjana Yatawara (Applications)
   * CSU Chico - Scott Clavarie (Engineering), Elbert Chan (Engineering)
