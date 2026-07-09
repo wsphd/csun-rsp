@@ -94,9 +94,14 @@
   * National Data Platform (NDP)
   * FABRIC is Adaptive ProgrammaBle Research Infrastructure for Computer Science and Science Applications (FABRIC)
   * PATh High-Throughput Computing (PATh) (OSG batch-style processing)
+  * Open Science Grid/HTCondor
 
 * National Institutes for Health (NIH)
   * NIH Cloud Lab - Science and Technology Research Infrastructure for Discovery, Experimentation, and Sustainability (STRIDES)
+
+* National Aerospace and Space Agency (NASA)
+  * NASA Center for Climate Simuolation (NCCS) Prism GPU cluster
+  * NASA Advanced Supercomputing (NAS) Cabeus supercomputer
 
 * Department of Energy (DOE)
   * Argonne Leadership Computing Facility (ALCF) AI Testbed
