@@ -327,6 +327,7 @@
   * We need recurring, regularlized Research Computing and Data activity - like FacDev and IT (and others) do now
     * or perhaps a slight addition to the Research Fellow symposium (Library?)
     * or perhaps a slight addition to the Jerome Richfield Fellow talk (RSP?)
+    * or perhaps add it to the monthly newsletter (beyond prior workshops in obtaining an ORCID ID)
 
 * Eventually, Wayne can't do this forever (and is the wrong person anyway)
 
