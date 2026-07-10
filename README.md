@@ -56,19 +56,19 @@
 ## Some preliminary CSU contacts
 
 * IT-ish Help on Research Computing and Data from around the CSU
-  * CSU Chancellor's Office - Matt Hughes (Engineering), Kendra Ard (Applications), Carol Kiliany (Systemwide RCTA group coordination)
-  * Cal Poly Humboldt - Ravi Chalasani (Applications), Casey Hefner (Engineering), A. Cade Webb (Admin), Bethany Gilden (Admin), Brian Campbell (Applications)
-  * Cal Poly Pomona - Alex Harwood (Admin), David Drivdahl (Applications), Curtis Carpenter (Engineering and Applications)
-  * CSU Bakersfield - Alberto Cruz (Applications), Brian Chen (Admin), Chris Diniz (Admin), Charles Lam (Applications), Ernest Richards (Engineering), Nick Rowland (Engineering), Joe Nailor (Engineering), Jaimi Paschal (Applications), Anjana Yatawara (Applications)
-  * CSU Chico - Scott Clavarie (Engineering), Elbert Chan (Engineering)
-  * CSU Dominguez Hills - Bill Elbettar (Engineering and Applications)
-  * CSU Fullerton - Willie Peng (Admin and Engineering), Dhusdee Chandswang (Identity Management)
-  * CSU Monterey Bay - Rick Sibinski (Engineering)
-  * CSU Northridge - Zack Hillbruner (IT, Engineering), Yolanda Barrett (ECS, Applications)
-  * CSU Sacramento - Peggy Kay (Admin), Mark Hendricks (Admin), Carl Oakes (Engineering)
-  * CSU San Bernardino - Dung Vu (Engineering and Applications), James Macdonnell (Applications), Nabeel Alzahrani (Data), Samuel Sudhaker (Admin), Gerald Au (Admin)
-  * Fresno State - Bao John (Admin), Vinay Gowdra-Halappa (Engineering)
-  * San Diego State - Henry Li (Engineering/especially CENIC AIR-TIDE), Kyle Krick (Applications), Michael Farley (Admin), James Frazee (Admin), Anthony Harris (Engineering)
+  * CSU Chancellor's Office - Matt Hughes (Infrastructure), Kendra Ard (Applications), Carol Kiliany (Systemwide RCTA group coordination)
+  * Cal Poly Humboldt - Ravi Chalasani (Applications), Casey Hefner (Infrastructure), A. Cade Webb (Admin), Bethany Gilden (Admin), Brian Campbell (Applications)
+  * Cal Poly Pomona - Alex Harwood (Admin), David Drivdahl (Applications), Curtis Carpenter (Infrastructure and Applications)
+  * CSU Bakersfield - Alberto Cruz (Applications), Brian Chen (Admin), Chris Diniz (Admin), Charles Lam (Applications), Ernest Richards (Infrastructure), Nick Rowland (Infrastructure), Joe Nailor (Infrastructure), Jaimi Paschal (Applications), Anjana Yatawara (Applications)
+  * CSU Chico - Scott Clavarie (Infrastructure), Elbert Chan (Infrastructure)
+  * CSU Dominguez Hills - Bill Elbettar (Infrastructure and Applications)
+  * CSU Fullerton - Willie Peng (Admin and Infrastructure), Dhusdee Chandswang (Identity Management)
+  * CSU Monterey Bay - Rick Sibinski (Infrastructure)
+  * CSU Northridge - Zack Hillbruner (IT, Infrastructure), Yolanda Barrett (ECS, Applications)
+  * CSU Sacramento - Peggy Kay (Admin), Mark Hendricks (Admin), Carl Oakes (Infrastructure)
+  * CSU San Bernardino - Dung Vu (Infrastructure and Applications), James Macdonnell (Applications), Nabeel Alzahrani (Data), Samuel Sudhaker (Admin), Gerald Au (Admin)
+  * Fresno State - Bao John (Admin), Vinay Gowdra-Halappa (Infrastructure)
+  * San Diego State - Henry Li (Infrastructure/especially CENIC AIR-TIDE), Kyle Krick (Applications), Michael Farley (Admin), James Frazee (Admin), Anthony Harris (Infrastructure)
 * (at CSUN each service Department needs to find their counterparts)
 
 
@@ -274,42 +274,59 @@
 
 ## Open Issues
 
-* Research Computing and Data (RCD) is definitely an "all of University" issue (see "CaRCC" five "faces" above)
+* Opportunities/Challenges
+  * It could be that this type of work is needed *even* at an R3 because we are large, important, engaged, and diverse
+
+  * Existing and New Faculty need to know what's available, what's useful, what's supported
+  * Expanded opportunities for external funding
+
+  * Workforce opportunities (undergraduate and graduate research, grad. school, CI skills for AI, etc.)
+  * For example, LACCD is attached to the NRP (with the servers at LAVC)
+  * Far beyond JuypterHub, a non-chargeback system for sandboxing and experimentation is huge (with no local clients or servers)
+
+* Risks/Tensions
+  * Persistent storage (with, perhaps, F.A.I.R. principles, etc.)
+  * The above systems can do CUI (but need to follow the NSF rules) but not classified, PII, HIPPA, or ITAR data
+    * e.g., new M.S. in Health Analytics (but there are others)
+
+  * Research is discipline-specific and very individualistic (even more so than instruction)
+    * some skills, knowledge, abilities are better off decentralized than centralized
+
+  * Some cultural changes
+    * For this type of work, we will need to embrace open source software
+      * (side note: the CSU should have an Open Source Program Office too)
+    * For this type of work, everyone needs to know that there is some learning curve (but Wayne tries to keep it low)
+
+* Short-term goals/issues
+  * Collaboriation/Learning
+    * Presumably, every research-computing-intensive faculty member is (or can be) collaborating others on campus and elsewhere
+      * so, each administrator and staff member should do the same with a colleague on another CSU campus (on the IT-ish side, see my brief list above)
+  * There is a Research conference from STEM*NET at CSU Fullerton next semester (Wed. March 24 - Fri. March 26, 2027)
+  * I think someone from *both* IT and RSP think about joinging at least one CaRCC affinity group
+  * I tend to know the IT-ish groups but I am less familiar with the support structures for RSP managers and professionals
+
+* Longer-term goals/ideas
+  * I/We/someone need to go to the Library Committee (of the Senate) or something deeper
+  * I/We/someone need to go to the Provost's Council
+  * Ron can brief the Cabinet (I can be there if he needs me)
+
+  * We need to also brief the DFOs
+    * without chargebacks, like for AWS, the Dean's Office might know what people are doing
+    * at some point, there might be "token budgets" for expensive AI uses beyond the OpenAI contract
+
+* We could build some type of organizational structure for this activity (see several other CSU campuses)
+  * Research Computing and Data (RCD) is definitely an "all of University" issue (see "CaRCC" five "faces" above)
   * The campus needs to decide its posture on research support in general and research computing/data support specifically
     * (aligned with existing campus strategy)
   * The campus will need "wrap-around" analysis and support from multiple units
     * "intake" form
     * "referral" procedure
-  * The campus need some type of organizing/advisory body at some point
+
+  * The campus will need some type of organizing/advisory body at some point
   * The campus would benefit from Research Computing "Fellows" just like have in other places
-  * We need recurring, regularlized activity - like FacDev and IT (and others) do now
-
-* Still, there are unresolved issues
-  * Persistent storage (with, perhaps, F.A.I.R. principles, etc.)
-  * The above systems can do CUI (follow the NSF rules) but not classified, HIPPA, or ITAR data
-    * e.g., new M.S. in Health Analytics (but there are others)
-
-* Some cultural changes
-  * For this type of work, we will need to embrace open source software
-    * (the CSU should have an Open Source Program Office too)
-  * For this type of work, everyone needs to know that there is some learning curve (but Wayne tries to keep it low)
-  * We need to also brief the DFOs
-    * without chargebacks, like for AWS, the Dean's Office might know what people are doing
-    * at some point, there might be "token budgets" for expensive AI uses beyond the OpenAI contract
-
-* We need to go to the Provost's Council
-  * For one thing, research is discipline-specific and very individualistic (even most so than instruction)
-
-* Each administrator and staff member can meet with at least one counterpart at another CSU campus on this issue
-  * (on the IT side, see my brief list above)
-
-* There is a Research conference from STEM*NET at CSU Fullerton next semester
-  * We should go (although, to be honest, CSUSUPERB can be a good affinity group too)
-
-* There are many programmatic and instructional touchpoints too
-  * For example, LACCD is attached to the NRP (with the servers at LAVC)
-  * Far beyond JuypterHub, a non-chargeback system for sandboxing and experimentation is huge
-  * We should go (although, to be honest, CSUSUPERB can be a good affinity group too)
+  * We need recurring, regularlized Research Computing and Data activity - like FacDev and IT (and others) do now
+    * or perhaps a slight addition to the Research Fellow symposium (Library?)
+    * or perhaps a slight addition to the Jerome Richfield Fellow talk (RSP?)
 
 * Eventually, Wayne can't do this forever (and is the wrong person anyway)
 
