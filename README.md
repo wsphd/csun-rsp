@@ -307,8 +307,13 @@
       * so, each administrator and staff member should do the same with a colleague on another CSU campus (on the IT-ish side, see my brief list above)
   * I need to brief the current ECS and SCM Deans
   * There is a Research conference from STEM*NET at CSU Fullerton next semester (Wed. March 24 - Fri. March 26, 2027)
-  * I think someone from *both* IT and RSP think about joinging at least one CaRCC affinity group
+  * I think someone from *both* IT and RSP think about joining at least one CaRCC affinity group
+
   * I tend to know the IT-ish groups but I am less familiar with the support structures for RSP managers and professionals
+    * National Council of University Research Administrators (NCURA)
+    * Society of Research Administrators International (SRA)
+    * National Organization of Research Development Professionals (NORDP)
+    * Research Administrators Certification Council (RACC)
 
 * Longer-term goals/ideas
   * I/We needs to go to the Library Committee (of the Senate) or something deeper
