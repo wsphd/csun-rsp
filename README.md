@@ -290,7 +290,7 @@
 
 * Risks/Tensions
   * Persistent storage (with, perhaps, F.A.I.R. principles, etc.)
-  * The above systems can do CUI (but need to follow the NSF rules) but not classified, PII, HIPPA, or ITAR data
+  * The above systems can do CUI (but need to follow the NSF rules) but not (P4) classified, PII, HIPPA, or ITAR data
     * e.g., new M.S. in Health Analytics (but there are others)
 
   * Research is discipline-specific and very individualistic (even more so than instruction)
@@ -317,6 +317,9 @@
 
 * Longer-term goals/ideas
   * I/We needs to go to the Library Committee (of the Senate) or something deeper
+    * ...and something beyond Data Management Plan (even *that* is hard)
+      * for storage, our researchers might need: general, collaborative, computational, secure, data sharing/publishing
+      * among others, Findable, Accessibile, Interoperable, Reproducible (FAIR) principles
     * Coalition for Networked Information (CNI)
     * Research Data Alliance (RDA)
     * Open Storage Network (OSN)
@@ -327,6 +330,9 @@
   * We need to also brief the DFOs
     * without chargebacks, like for AWS, the Dean's Office might know what people are doing
     * at some point, there might be "token budgets" for expensive AI uses beyond the OpenAI contract
+
+  * If persistent, engaged discussions aren't happening at the Chancellor's Office (CO), frankly we should push it (grin)
+    * this includes AI but is larger than AI
 
 * We could build some type of organizational structure for this activity (see several other CSU campuses)
   * Research Computing and Data (RCD) is definitely an "all of University" issue (see "CaRCC" five "faces" above)
