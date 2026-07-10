@@ -253,9 +253,11 @@
 
 * Wayne S. (DNCBE)
   * Initial Faculty Conversations
-    * has briefed all relevant Faculty Senate standing committees but the Library Committee (need to go at some point)
+    * has briefed all relevant Faculty Senate standing committees but the Library Committee
     * has presented at a Faculty Retreat (we have more time there)
     * has briefed both prior ECS and SCM Deans
+  * Initial Students Conversations
+    * has briefed relevant students at the annual OUR conference
   * has attended multiple regional and national meetings at no cost (CSU/CSUN or College/Dept)
   * has developed initial relationships with key players in SoCal and within the CSU (and assisted other campuses too)
   * has helped some faculty and a few students
@@ -266,10 +268,12 @@
   * have been asked by the NSF to apply for a rotating position in NSF (not interested)
 
 * Zack H. (CSUN IT)
-    * coordinated the built-out of the infrastructure (systems and network) to connect to the NRP as a full participant
-    * has presented at a Faculty Retreat (we have more time there)
-    * is an "admin" on NRP
-    * others
+  * coordinated the built-out of the infrastructure (systems and network) to connect to the NRP as a full participant
+  * has presented at a Faculty Retreat (we have more time there)
+  * is an "admin" on NRP
+  * Initial Students Conversations
+    * has briefed relevant students at the annual OUR conference
+  * others
 
 
 ## Open Issues
@@ -301,13 +305,14 @@
   * Collaboriation/Learning
     * Presumably, every research-computing-intensive faculty member is (or can be) collaborating others on campus and elsewhere
       * so, each administrator and staff member should do the same with a colleague on another CSU campus (on the IT-ish side, see my brief list above)
+  * I need to brief the current ECS and SCM Deans
   * There is a Research conference from STEM*NET at CSU Fullerton next semester (Wed. March 24 - Fri. March 26, 2027)
   * I think someone from *both* IT and RSP think about joinging at least one CaRCC affinity group
   * I tend to know the IT-ish groups but I am less familiar with the support structures for RSP managers and professionals
 
 * Longer-term goals/ideas
-  * I/We/someone need to go to the Library Committee (of the Senate) or something deeper
-  * I/We/someone need to go to the Provost's Council
+  * I/We needs to go to the Library Committee (of the Senate) or something deeper
+  * I/We/someone needs to go to the Provost's Council (I can be there if Ron/Jawa needs me)
   * Ron can brief the Cabinet (I can be there if he needs me)
 
   * We need to also brief the DFOs
