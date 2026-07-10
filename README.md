@@ -317,6 +317,10 @@
 
 * Longer-term goals/ideas
   * I/We needs to go to the Library Committee (of the Senate) or something deeper
+    * Coalition for Networked Information (CNI)
+    * Research Data Alliance (RDA)
+    * Open Storage Network (OSN)
+    * others...
   * I/We/someone needs to go to the Provost's Council (I can be there if Ron/Jawa needs me)
   * Ron can brief the Cabinet (I can be there if he needs me)
 
