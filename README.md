@@ -331,13 +331,17 @@
     * without chargebacks, like for AWS, the Dean's Office might know what people are doing
     * at some point, there might be "token budgets" for expensive AI uses beyond the OpenAI contract
 
-  * If persistent, engaged discussions aren't happening at the Chancellor's Office (CO), frankly we should push it (grin)
+  * If persistent, engaged discussions aren't happening at the Chancellor's Office (CO), frankly, we should push it (grin)
     * this includes AI but is larger than AI
 
 * We could build some type of organizational structure for this activity (see several other CSU campuses)
   * Research Computing and Data (RCD) is definitely an "all of University" issue (see "CaRCC" five "faces" above)
   * The campus needs to decide its posture on research support in general and research computing/data support specifically
     * (aligned with existing campus strategy)
+  * varying CSU models
+    * CSUN (minimalist), "catch-as-catch-can", "hug-my-computer"
+    * CSUSB (maximalist), "Build-Operate-Transfer" (BOT) - do everything for you and then turn it over to you when completed
+    * (something in the middle)
   * The campus will need "wrap-around" analysis and support from multiple units
     * "intake" form
     * "referral" procedure
