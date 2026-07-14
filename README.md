@@ -55,14 +55,14 @@
 
 ## Some preliminary CSU contacts
 
-* IT-ish Help on Research Computing and Data from around the CSU
+* campus Champions (mostly IT-ish) Help on Research Computing and Data from around the CSU
   * CSU Chancellor's Office - Matt Hughes (Infrastructure), Kendra Ard (Applications), Carol Kiliany (Systemwide RCTA group coordination)
   * Cal Poly Humboldt - Ravi Chalasani (Applications), Casey Hefner (Infrastructure), A. Cade Webb (Admin), Bethany Gilden (Admin), Brian Campbell (Applications)
   * Cal Poly Pomona - Alex Harwood (Admin), David Drivdahl (Applications), Curtis Carpenter (Infrastructure and Applications)
   * CSU Bakersfield - Alberto Cruz (Applications), Brian Chen (Admin), Chris Diniz (Admin), Charles Lam (Applications), Ernest Richards (Infrastructure), Nick Rowland (Infrastructure), Joe Nailor (Infrastructure), Jaimi Paschal (Applications), Anjana Yatawara (Applications)
   * CSU Chico - Scott Clavarie (Infrastructure), Elbert Chan (Infrastructure)
   * CSU Dominguez Hills - Bill Elbettar (Infrastructure and Applications)
-  * CSU Fullerton - Willie Peng (Admin and Infrastructure), Dhusdee Chandswang (Identity Management)
+  * CSU Fullerton - Willie Peng (Admin and Infrastructure), Dhusdee Chandswang (Identity Management), Taylor Livingston (Admin)
   * CSU Monterey Bay - Rick Sibinski (Infrastructure)
   * CSU Northridge - Zack Hillbruner (IT, Infrastructure), Yolanda Barrett (ECS, Applications)
   * CSU Sacramento - Peggy Kay (Admin), Mark Hendricks (Admin), Carl Oakes (Infrastructure)
