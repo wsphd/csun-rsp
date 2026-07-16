@@ -113,10 +113,13 @@
 
 * D-Wave LEAP Quantum Launchpad/D-Wave Learn Program (D-Wave)
 
-* Although not widely known, nearly all of those resources can 1), can be used by students (research/instruction), and 2), be used for instruction
+* Although perhaps not widely known...
+  * ,,, all of these resources can be used by students for research, including undergraduates
+  * ,,, nearly all of these resources can be used by faculty and students for instruction
+  * ,,, "science driver" means, in practice, "scientific method" (i.e., a broader definition than for an NSF grant/award proposal)
 
 * HPC-related NSF initiatives
-  * National Artificial Intelligence Research Resource Pilot
+  * National Artificial Intelligence Research Resource (NAIRR) Pilot
   * (TIP) AI Ready America
   * (CISE) Expeditions in Computing
   * (OAC)
