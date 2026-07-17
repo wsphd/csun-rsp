@@ -254,7 +254,7 @@
 
 ## Some Things that Have Been Done
 
-* CSUN IT keeps Single-Sign On (SSL) and federated identity (CILOGIN) working
+* CSUN IT keeps Single-Sign On (SSL) and federated identity (CILogon) working
 
 * Wayne S. (DNCBE)
   * Initial Faculty Conversations
