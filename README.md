@@ -254,6 +254,8 @@
 
 ## Some Things that Have Been Done
 
+* CSUN IT keeps Single-Sign On (SSL) and federated identity (CILOGIN) working
+
 * Wayne S. (DNCBE)
   * Initial Faculty Conversations
     * has briefed all relevant Faculty Senate standing committees but the Library Committee
@@ -303,6 +305,9 @@
     * For this type of work, we will need to embrace open source software
       * (side note: the CSU should have an Open Source Program Office too)
     * For this type of work, everyone needs to know that there is some learning curve (but Wayne tries to keep it low)
+
+  * Reputational Risk
+    * We want to offer state-of-the-art resources and capabilities but some services are provided by non-CSU/non-CSUN providers
 
 * Short-term goals/issues
   * Collaboriation/Learning
