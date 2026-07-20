@@ -5,7 +5,7 @@
 <https://github.com/wsphd/csun-rsp/>
 
 **High-Performance Computing (Resources and Capabilities)**\
-**Brief for Office of Research and Sponsorded Programs**\
+**Brief for Office of Research and Sponsored Programs**\
 **Ranjit Philip and Wayne Smith**\
 **California State University, Northridge (CSUN)**\
 **Fall, 2026**
@@ -94,7 +94,8 @@
   * National Data Platform (NDP)
   * FABRIC is Adaptive ProgrammaBle Research Infrastructure for Computer Science and Science Applications (FABRIC)
   * PATh High-Throughput Computing (PATh) (OSG batch-style processing)
-  * Open Science Grid/HTCondor
+  * Open Science Grid (OSG)/OSPool/HTCondor
+  * Open Science Data Federation (OSDF)
 
 * National Institutes for Health (NIH)
   * NIH Cloud Lab - Science and Technology Research Infrastructure for Discovery, Experimentation, and Sustainability (STRIDES)
@@ -192,7 +193,7 @@
 ## Upskilling - Professional Associations/Societies
 
 * Faculty - These general-purpose, multidiscplinary HPC resources should be of use to _Faculty_ over time.
-  * Open Science Data Federation (OSDF)
+  * Pelican Platform
   * ACM HPC (ACMHPC)
   * Advanced Cyberinfrastructure - Research and Education Facilitators (ACI-REF)
   * R OpenSci (ROpenSci)
