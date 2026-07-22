@@ -13,9 +13,9 @@
 
 ## Goals for meeting with RSP/Jawa (Fall, 2026)
 
-1. Provide an overview of the High-Performance Computing and Data landscape (both institutionally and externally)
-2. Begin to develop a posture here for High-Performance Computing and Data (many different options)
-3. Think about the sustainable, scaleable, recurring support structures that can best meet the future needs of the institution
+1. Provide an **overview** of the High-Performance Computing and Data landscape (both institutionally and externally)
+2. Begin to develop a **posture** here for High-Performance Computing and Data (many different options)
+3. Think about the sustainable, scaleable, recurring **support structures** that can best meet the future needs of the institution
 
 
 ## Links/References
