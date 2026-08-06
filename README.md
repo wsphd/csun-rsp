@@ -281,7 +281,8 @@
   * have been asked by the NSF to apply for a rotating position in NSF (not interested)
 
 * Zack H. (CSUN IT)
-  * coordinated the built-out of the infrastructure (systems and network) to connect to the NRP as a full participant
+  * coordinated the on-premisis built-out of the infrastructure (systems and network) to connect to the NRP as a full participant
+    * added at least one node (e.g., A6000 GPUs) to the research network
   * has presented at a Faculty Retreat (we have more time there)
   * is an "admin" on NRP
   * Initial Students Conversations
