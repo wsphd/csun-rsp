@@ -9,7 +9,7 @@
 
 ## Principles
 
-  * Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.
+  * Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.\
     **Potential Alignment** - A larger set of resources and capabilities might be expected to meet the needs of a very diverse campus.
 
   * Equity-Driven - Approach all aspects of the Framework through an equity lens, identifying and addressing disparities in every decision, strategy and action.
