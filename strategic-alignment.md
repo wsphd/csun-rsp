@@ -1,4 +1,4 @@
-# ***High-Performance Computing (Resources and Capabilities)***
+# <div align = center>***High-Performance Computing (Resources and Capabilities)***</div>
 # ***Strategic - Alignment (preliminary draft)***
 
 
