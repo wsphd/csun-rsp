@@ -1,5 +1,5 @@
 # <div align = center>***High-Performance Computing (Resources and Capabilities)***</div>
-# ***Strategic - Alignment (preliminary draft)***
+## <div align = center>***Strategic - Alignment (preliminary draft)***</div>
 
 
 # Systemwide-level [CSU Student Success Framework](https://www.calstate.edu/impact-of-the-csu/diversity/Pages/Student-Success-Framework.aspx)
