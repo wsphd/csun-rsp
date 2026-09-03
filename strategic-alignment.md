@@ -91,12 +91,18 @@ Priorities:
 
 # College-level (tbd)
 
-  * Expressed (Explicit, e.g. in the stated goals)
+  * Expressed (Explicit, e.g. in the stated, college-level goals)
   * Implied (Implicit, e.g., in the technology stack)
 
 
 # Department-level (unk, tbd)
 
-  * Expressed (Explicit, e.g. in the stated goals)
+  * Expressed (Explicit, e.g. in the stated, department-level goals)
   * Implied (Implicit, e.g., in the technology stack)
+
+
+# Inidividual-level (unk, tbd)
+
+  * Expressed (Explicit, e.g. in the CV, Resume, Github repos, academic/professional societies, affinity groups, NSF/NIH panels, etc.)
+  * Implied (Implicit, e.g., large number of GPUs/TPUs/FPGAs used, WAN bandwidth used, collaboration partners, etc.)
 
