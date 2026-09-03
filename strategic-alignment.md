@@ -4,7 +4,7 @@
 
 ## Systemwide-level [CSU Student Success Framework](https://www.calstate.edu/impact-of-the-csu/diversity/Pages/Student-Success-Framework.aspx)
 
-  ### Principles
+### Principles
 
     * Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.
 
@@ -16,7 +16,7 @@
 
     * Transparent - Foster trust and accountability by consistently communicating in an open manner, making sure decision-making, processes and actions are accessible and understandable to all stakeholders.
 
-  ### Vision (new, June 9, 2026)
+### Vision (new, June 9, 2026)
 
     * The CSU Promise - Every CSU student will graduate with the opportunity for a first career job and/or a clear path to further study.
 
@@ -86,10 +86,14 @@ Priorities:
   * Collect data that assess the Library’s impact by demographic and student success variables to determine how best to support the diverse needs of students, faculty, and staff.
 
 
+## College-level (tbd)
+
+  * Expressed
+  * Implied
+
+
 ## Department-level (unk, tbd)
 
-
-## College-level (unk, tbd)
-
-
+  * Expressed
+  * Implied
 
