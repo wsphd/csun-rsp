@@ -4,7 +4,7 @@
 
 ## Systemwide-level [CSU Student Success Framework](https://www.calstate.edu/impact-of-the-csu/diversity/Pages/Student-Success-Framework.aspx)
 
-### Principles
+## Principles
 
     * Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.
 
