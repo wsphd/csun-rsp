@@ -13,7 +13,7 @@
     * **Potential Alignment** - A larger set of resources and capabilities should be expected to meet the needs of a very diverse campus.
 
   * Equity-Driven - Approach all aspects of the Framework through an equity lens, identifying and addressing disparities in every decision, strategy and action.
-    * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium](https://ms-cc.org/) (MS-CC), exists specifically to assist institions to assist MSI/HSI instiutions.
+    * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium](https://ms-cc.org/) (MS-CC), exist specifically to assist MSI/HSI institutions.
 
   * Data-Informed - Use data to inform recommendations, leveraging analytical insights to refine the approach and measure outcomes.
     * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as IU Jetstream2 all provide usage data.
@@ -22,7 +22,7 @@
     * **Potential Alignment** - CSU Tide, weekly meetings with NRP engineering staff, and regular IU Jetstream office hours are open and free to all.
 
   * Transparent - Foster trust and accountability by consistently communicating in an open manner, making sure decision-making, processes and actions are accessible and understandable to all stakeholders.
-    * **Potential Alignment** - This document is public.  CSUN IT maintains a public, introductory web page on Research Technology.  Wayne maintains an public, extensive web page on Research Technology.
+    * **Potential Alignment** - This document is public.  CSUN IT maintains a public, introductory web page on Research Technology.  Wayne Smith maintains an public, extensive web page on Research Technology.
 
 ## Vision (new, June 9, 2026)
 
