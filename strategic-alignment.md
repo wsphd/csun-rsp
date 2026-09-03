@@ -1,6 +1,7 @@
 # <div align = center>***High-Performance Computing (Resources and Capabilities)***</div>
 ## <div align = center>***Strategic - Alignment (preliminary draft)***</div>
-## <div align = center>`wayne.smith@csun.edu`, 2026-09-03</div>  
+## <div align = center>`wayne.smith@csun.edu`, 2026-09-03</div>
+<br><br>
 
 
 # Systemwide-level [CSU Student Success Framework](https://www.calstate.edu/impact-of-the-csu/diversity/Pages/Student-Success-Framework.aspx)
