@@ -1,7 +1,7 @@
 # <div align = center>***Research Technology Infrastructure and Support***</div>
-## <div align = center>***Preliminary Strategic Alignment***</div>
+## <div align = center>***Potential Strategic Alignment***</div>
 ## <div align = center>`wayne.smith@csun.edu`</div>
-## <div align = center>draft, 2026-09-03</div>
+## <div align = center>preliminary draft, 2026-09-03</div>
 <br><br>
 
 
