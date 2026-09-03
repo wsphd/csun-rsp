@@ -10,6 +10,7 @@
 ## Principles
 
   * Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.
+    * **Potential Alignment** - A larger set of resources and capabilities might be expected to meet the needs of a very diverse campus.
 
   * Equity-Driven - Approach all aspects of the Framework through an equity lens, identifying and addressing disparities in every decision, strategy and action.
 
@@ -23,17 +24,15 @@
 
   * The CSU Promise - Every CSU student will graduate with the opportunity for a first career job and/or a clear path to further study.
 
-  * Framework Commitments
+  * Affordability - Every student in California will be able to afford the total cost of a CSU degree.
 
-    * Affordability - Every student in California will be able to afford the total cost of a CSU degree.
+  * Personalized Journeys to Success -
+    * Every student will have a digitally-enhanced, personalized, and streamlined experience to support timely degree completion.
+    * Every student will have clear curricular and co-curricular pathways to their academic career goals.
 
-    * Personalized Journeys to Success -
-      * Every student will have a digitally-enhanced, personalized, and streamlined experience to support timely degree completion.
-      * Every student will have clear curricular and co-curricular pathways to their academic career goals.
+  * Adaptive and Responsive Teaching and Learning - Every student will experience an inclusive, accessible, and intentional teaching and learning environment.
 
-    * Adaptive and Responsive Teaching and Learning - Every student will experience an inclusive, accessible, and intentional teaching and learning environment.
-
-    * Experiential Learning - Every student will build real-world skills and build professional networks through internships and experiential learning.
+  * Experiential Learning - Every student will build real-world skills and build professional networks through internships and experiential learning.
 
 
 # Campus-level [CSUN Strategic Plan](https://library.csun.edu/about/strategic-plan)
