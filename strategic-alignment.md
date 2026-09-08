@@ -9,7 +9,7 @@
 
 ## Principles
 
-  * Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.
+  ### Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.
     * **Potential Alignment** - A larger set of resources and capabilities should be expected to meet the needs of a very diverse campus.
 
   * Equity-Driven - Approach all aspects of the Framework through an equity lens, identifying and addressing disparities in every decision, strategy and action.
@@ -27,6 +27,7 @@
 ## Vision (new, June 9, 2026)
 
   * The CSU Promise - Every CSU student will graduate with the opportunity for a first career job and/or a clear path to further study.
+    * **Potential Alignment** - There are plenty of positions, including in higher education, for individuals with Research, Data, CyberInfrastructure, and High-Performance Computing skills, knowledge, and abilities.
 
   * Affordability - Every student in California will be able to afford the total cost of a CSU degree.
 
