@@ -77,13 +77,13 @@ Priorities:
     * **Potential Alignment** - For analytical workflows beyond the capabilities of a laptop, HPC resources will be critical to meeting this goal.  Even on a laptop, many of same skills are needed for productivity and success (especially for reuse, replication, reproducibility, and robustness).
 
   * Broaden access to existing Special Collections & Archives collections, encourage public exhibits derived from these collections, and acquire new archival collections to enrich teaching, learning, and research.
-    * **Potential Alignment** - Some artifacts from HPC analysis will be only digital.  Moreover, any researcher's output is potentially another researcher's input.  As this cycle evolves, the amount of data and associated computation need will only increase.
+    * **Potential Alignment** - Some artifacts from HPC analysis will be in digital form only.  Moreover, any researcher's output is potentially another researcher's input.  As this cycle evolves, the amount of data and associated computation for that data will only increase.
 
   * Strategize the funding and creation of the Center for the Study of Charles Dickens, in collaboration with the College of Humanities.
-    * **Potential Alignment** - One Center can probably manage any data and computation for a single author.  However, especially in a Digital Humanities or Linguistics context, a single Center can easily turn into multiple Centers.
+    * **Potential Alignment** - One Center can probably manage any data and computation for a single author, especially using existing resources and capabilities.  However, especially in a Digital Humanities or Linguistics context, a single Center can easily turn into multiple Centers.  Regardless, data and associated meta-data that results from analysis will only grow over time.
 
   * Expand the use of library data, assessment, and user feedback to develop best practices for policies, workflows, systems, and spaces to adapt to evolving user requirements, contexts, and opportunities.
-    * **Potential Alignment** - The Library is an important of using HPC resources.  Further, there are entire affinity groups, conferences, etc. (such as RDA) devoted solely to managing research data and artifacts.
+    * **Potential Alignment** - The Library is an important part of using HPC resources.  Further, there are entire affinity groups, conferences, etc. (such as RDA) devoted solely to managing research data and other computation-related artifacts.
 
 ## Strengthen Capacity for Institutional Transformation
 
