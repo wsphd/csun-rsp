@@ -17,7 +17,7 @@ This is a preliminary draft of the potential alignments between High Performance
     * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium] (MS-CC), exist specifically to assist MSI/HSI institutions with using HPC resources and developing appropriate support structures.
 
   * Data-Informed - Use data to inform recommendations, leveraging analytical insights to refine the approach and measure outcomes.
-    * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as Indiana University's Jetstream2 all provide timley usage data.  In the short-run, we might need to contact faculty for usage data.
+    * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as Indiana University's Jetstream2 all provide timely usage data.  In the short-run, we might need to contact faculty for usage data.
 
   * Collaborative - Fully engage the CSU and statewide stakeholders, understanding and accounting for the diversity and identity of each university.
     * **Potential Alignment** - CSU Tide, weekly meetings with NRP engineering staff, and regular IU Jetstream office hours, among many others, are open and free to all.
@@ -31,10 +31,10 @@ This is a preliminary draft of the potential alignments between High Performance
     * **Potential Alignment** - There are plenty of positions, including in higher education, for individuals with Research, Data, CyberInfrastructure, and HPC skills, knowledge, and abilities.
 
   * Affordability - Every student in California will be able to afford the total cost of a CSU degree.
-    * **Potential Alignment** - As to capital, nearly all of it already funded (e.g., CENIC) and funded by grants (e.g., NSF).  As to labor, none beyond what might be needed to support faculty would be needed to support students.
+    * **Potential Alignment** - As to capital, nearly all of it is already funded (e.g., CENIC) and funded by grants (e.g., NSF).  As to labor, none beyond what might be needed to support faculty would be needed to support students.
 
   * Personalized Journeys to Success - Every student will have a digitally-enhanced, personalized, and streamlined experience to support timely degree completion.
-    * **Potential Alignment** - These HPC resources are, by definition, digitally-enhanced.  Students can have there own accounts, even just for learning and instruction.  Making it streamlined is harder but doable.
+    * **Potential Alignment** - These HPC resources are, by definition, digitally enhanced.  Students can have their own accounts, even just for learning and instruction.  Making it streamlined is harder but doable.
 
   * Personalized Journeys to Success - Every student will have clear curricular and co-curricular pathways to their academic career goals.
     * **Potential Alignment** - Not all pathways involve using HPC resources.  But for those that do, more outreach, documentation, and support can only help.
@@ -43,7 +43,7 @@ This is a preliminary draft of the potential alignments between High Performance
     * **Potential Alignment** - Not only can HPC resources be used for instruction, that use is deliberately encouraged.
 
   * Experiential Learning - Every student will build real-world skills and build professional networks through internships and experiential learning.
-    * **Potential Alignment** - Learning to conduct computationally-intensive research and use associated tools does indeed real-world skills.  Additionally, opportunties for paid travel to conferences for presentations and networking is widely available.
+    * **Potential Alignment** - Learning to conduct computationally-intensive research and use associated tools does indeed real-world skills.  Additionally, opportunities for paid travel to conferences for presentations and networking is widely available.
 
 
 # Campus-level [CSUN Strategic Plan](https://library.csun.edu/about/strategic-plan)
@@ -91,7 +91,7 @@ The University Library strives to effect necessary changes and strategic investm
 Priorities:
 
   * Encourage the hiring and retention of library faculty, staff, and administrators who represent the diversity of our community and are guided by the principles of diversity, equity, inclusion, social justice, and accessibility.
-    * **Potential Alignment** - An indirect benefit of using HPC resources is that the campus is helping to build the underlying workforce pipeline to ensure that there are more and better candidates for a position that more fully represent the diversity of the community and society.
+    * **Potential Alignment** - An indirect benefit of using HPC resources is that the campus is helping to build the underlying workforce pipeline to ensure that there are more and better candidates for positions that more fully represent the diversity of the community and society.
 
   * Support library employees’ professional development through continuing education, leadership training, and mentoring, and acknowledge the contributions of those who further the Library’s mission, vision, values, and strategic priorities.
     * **Potential Alignment** - Skills, knowledge, and abilities related to HPC resources is critical to this goal, at least for some employees.
@@ -117,7 +117,7 @@ Priorities:
     * **Potential Alignment** - For faculty and students, HPC resources (at a high level) could be incorporated into such offerings.
 
   * Showcase the Library’s unique and extensive archival and specialized collections of historical, cultural, and educational significance, and promote and expand our innovative spaces and services through programming, creative fundraising, grant writing, and establishing new endowments.
-    * **Potential Alignment** - As the size of these holdings increase, and as the source artifact is increasing digital, some hPC resources may be needed on a persistent basis.
+    * **Potential Alignment** - As the size of these holdings increase, and as the source artifact is increasing digital, some HPC resources may be needed on a persistent basis.
 
 ## Honor our Historical Legacy and Advocate for an Equitable Future
 
@@ -148,7 +148,7 @@ Priorities:
   * Implied (Implicit, e.g., in the technology stack)
 
 
-# Inidividual-level (tbd)
+# Individual-level (tbd)
 
   * Expressed (Explicit, e.g. in the CV, Resume, Github repositories, academic/professional societies, discipline affinity groups, NSF/NIH panels, aspirational research streams, etc.)
 
