@@ -60,10 +60,10 @@ Priorities:
     * **Potential Alignment** - All HPC resources are available at no chargeback to any individual or unit, including even the use of public hyperscalers (such as AWS, GCP, MS-Azure, OCI, etc.) using Cloudbank2 as the Resource Provider under ACCESS-CI.
 
   * Enhance existing technologies and resources within the Learning Commons and other public areas, and establish digital innovation and scholarship services and spaces to support embodied and integrative learning.
-    * **Potential Alignment** - HPC resources are critical to meeting this goal, with the term "Learning Commons" being both physical and virtual.
+    * **Potential Alignment** - HPC resources are critical to meeting this goal, with the assumption that the meaning of term "Learning Commons" can being interpreted to include both physical and virtual spaces.
 
   * Advocate for the expansion of innovative study and maker spaces, along with the necessary accessible technology, furnishings, and services to support both individual and collaborative learning and scholarship.
-    * **Potential Alignment** - Using HPC resources is indeed innovative, especially if some of the foundational tools (e.g., Python, BASH, compiling, GPU access, source code repositories, dynamic results reporting, etc.) aren't taught in the established curriculu.
+    * **Potential Alignment** - Using HPC resources is indeed innovative, especially if some of the foundational tools (e.g., Python, BASH, compiling, GPU access, source code repositories, dynamic results reporting, etc.) aren't taught regularly in the established curriculum available to all students.
 
 ## Advance Academic Excellence
 
