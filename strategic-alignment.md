@@ -11,19 +11,19 @@ This is a preliminary draft of the potential alignments between High Performance
 ## Principles
 
   * Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.
-    * **Potential Alignment** - A larger and wider set of resources and capabilities are needed to meet the diverse needs of a very diverse campus.  Despite the compound noun "Research Technology", nearly all resources are available for instruction or general learning.  Additionally, that use is not just allowed and enabled but encouraged and specifically supported.
+    * **Potential Alignment** - A larger and wider set of resources and capabilities are needed to meet the diverse needs of a diverse (both within and across) campuses.  Despite the compound noun "Research Technology", nearly all resources are available for instruction or simply general, individualized learning.  Additionally, other-than-research use is not just allowed and enabled but encouraged and specifically supported.
 
   * Equity-Driven - Approach all aspects of the Framework through an equity lens, identifying and addressing disparities in every decision, strategy and action.
     * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium] (MS-CC), exist specifically to assist MSI/HSI institutions with using HPC resources and developing appropriate support structures.
 
   * Data-Informed - Use data to inform recommendations, leveraging analytical insights to refine the approach and measure outcomes.
-    * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as IU Jetstream2 all provide usage data.  In the short-run, we might need to contact faculty for usage data.
+    * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as Indiana University's Jetstream2 all provide timley usage data.  In the short-run, we might need to contact faculty for usage data.
 
   * Collaborative - Fully engage the CSU and statewide stakeholders, understanding and accounting for the diversity and identity of each university.
     * **Potential Alignment** - CSU Tide, weekly meetings with NRP engineering staff, and regular IU Jetstream office hours, among many others, are open and free to all.
 
   * Transparent - Foster trust and accountability by consistently communicating in an open manner, making sure decision-making, processes and actions are accessible and understandable to all stakeholders.
-    * **Potential Alignment** - This document is public.  CSUN IT maintains a public, introductory web page on Research Technology.  Wayne Smith maintains a public, extensive web page on HPC Resoures and Capabilities.
+    * **Potential Alignment** - This document is public.  CSUN IT maintains a public, introductory web page on Research Technology.  Wayne Smith maintains a public, extensive web page on HPC Resources and Capabilities.
 
 ## Vision (new, June 9, 2026)
 
