@@ -114,10 +114,10 @@ Priorities:
     * **Potential Alignment** - Currently, these HPC resources are limited to faculty and students (a more honest response is that this potential alignment needs to be studied further).  It's possible, however, that CSU-TIDE (JupyterHub) could be used by the community (it can be through City- and County-provided Libraries).
 
   * Promote library outreach activities like tours and invitations to special events and exhibits, and offer library instruction and research assistance to local high schools to help attract prospective students to CSUN.
-    * **Potential Alignment** - For faculty and students, HPC resources (at a conceptual level) could be incorporated into such offerings.
+    * **Potential Alignment** - For faculty and students, HPC resources (at a conceptual level) could be incorporated into such offerings on a regular basis.
 
   * Showcase the Library’s unique and extensive archival and specialized collections of historical, cultural, and educational significance, and promote and expand our innovative spaces and services through programming, creative fundraising, grant writing, and establishing new endowments.
-    * **Potential Alignment** - As the size of these holdings increase, and as the source artifact is increasing digital, some HPC resources may be needed on a persistent basis.
+    * **Potential Alignment** - As the size of these holdings increase, and as the source artifacts are increasing digital, some HPC resources may be needed on a persistent basis.
 
 ## Honor our Historical Legacy and Advocate for an Equitable Future
 
