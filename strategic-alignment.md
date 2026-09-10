@@ -43,7 +43,7 @@ This is a preliminary draft of the potential alignments between High Performance
     * **Potential Alignment** - Not only can HPC resources be used for instruction, that use is deliberately encouraged.
 
   * Experiential Learning - Every student will build real-world skills and build professional networks through internships and experiential learning.
-    * **Potential Alignment** - Learning to conduct computationally-intensive research and use associated tools does indeed real-world skills.  Additionally, opportunities for paid travel to conferences for presentations and networking is widely available.
+    * **Potential Alignment** - Learning to conduct computationally-intensive research and use associated tools does indeed build and develop real-world skills.  Additionally, opportunities for paid travel to conferences for presentations and networking is widely available.
 
 
 # Campus-level [CSUN Strategic Plan](https://library.csun.edu/about/strategic-plan)
