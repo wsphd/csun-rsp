@@ -14,7 +14,7 @@ This is a preliminary draft of the potential alignments between High Performance
     * **Potential Alignment** - A larger and wider set of resources and capabilities are needed to meet the diverse needs of a very diverse campus.
 
   * Equity-Driven - Approach all aspects of the Framework through an equity lens, identifying and addressing disparities in every decision, strategy and action.
-    * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium] (MS-CC), exist specifically to assist MSI/HSI institutions.
+    * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium] (MS-CC), exist specifically to assist MSI/HSI institutions with using HPC resources and developing appropriate support structures.
 
   * Data-Informed - Use data to inform recommendations, leveraging analytical insights to refine the approach and measure outcomes.
     * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as IU Jetstream2 all provide usage data.
