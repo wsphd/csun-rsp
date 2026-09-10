@@ -96,11 +96,13 @@ Priorities:
     * **Potential Alignment** - Skills, knowledge, and abilities related to HPC resources is critical to this goal, at least for some employees.
 
   * Advocate for collaboration within and between library teams through shared goals, leadership, and cooperation, to expand innovation in all library areas.
-    * **Potential Alignment** - The use of HPC resources is one critical part of achieving this goal.
+    * **Potential Alignment** - The use of HPC resources, as needed, is a critical part of achieving this goal.
 
   * Explore new strategies to continuously improve the user experience through transformative collections, technical services, access services, research and instruction support, technologies, and renovated spaces and furnishings.
+    * **Potential Alignment** - Again, the use of HPC resources, as needed, is a critical part of achieving the technical and technological components of this goal over time.
 
   * Leverage library assessment data to articulate our story and demonstrate a strong correlation between library usage and our contributions to student success to garner philanthropic and institutional support for our collections, spaces, and technology.
+    * **Potential Alignment** - All use of NRP and ACCESS-CI resources are public.  We ask each faculty or staff researcher to cite the NSF-funded resource as well.  This probably needs some better coordination on campus though.
 
 ## Enhance Community Connections
 
@@ -108,10 +110,13 @@ We strive to nurture a culture of caring and belonging, reinforcing partnerships
 Priorities:
 
   * Provide the broader community access to the University Library’s resources, technology, services, and public spaces whenever licensing, resource sharing agreements, and other policies permit.
+    * **Potential Alignment** - Right now, these HPC resources are limited to faculty and students.  It's possible, however, that CSU-TIDE (JupyterHub) could be used by the community (it can be through City- and County-provided Libraries).
 
   * Promote library outreach activities like tours and invitations to special events and exhibits, and offer library instruction and research assistance to local high schools to help attract prospective students to CSUN.
+    * **Potential Alignment** - For faculty and students, HPC resources (at a high level) could be incorporated into such offerings.
 
   * Showcase the Library’s unique and extensive archival and specialized collections of historical, cultural, and educational significance, and promote and expand our innovative spaces and services through programming, creative fundraising, grant writing, and establishing new endowments.
+    * **Potential Alignment** - As the size of these holdings increase, and as the source artifact is increasing digital, some hPC resources may be needed on a persistent basis.
 
 ## Honor our Historical Legacy and Advocate for an Equitable Future
 
@@ -119,10 +124,13 @@ The Library honors CSUN's history while advocating for a more equitable future, 
 Priorities:
 
   * Implement new strategies and projects rooted in the University Archives & Campus History Collections to raise campus awareness of our shared CSUN history and to foster a sense of community and belonging.
+    * **Potential Alignment** - (tbd)
 
   * Apply an equity and social justice lens to library policies, practices, programming, acquisitions, spaces, student engagement, and employee recruitment and retention.
+    * **Potential Alignment** - (tbd)
 
   * Collect data that assess the Library’s impact by demographic and student success variables to determine how best to support the diverse needs of students, faculty, and staff.
+    * **Potential Alignment** - All use of NRP and ACCESS-CI resources are public.  We ask each faculty or staff researcher to cite the NSF-funded resource as well.  This probably needs some better coordination on campus though.
 
 
 # College-level (tbd)
