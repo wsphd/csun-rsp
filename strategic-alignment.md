@@ -11,7 +11,7 @@ This is a preliminary draft of the potential alignments between High Performance
 ## Principles
 
   * Student-Centric - Center decisions, strategies and actions around the needs, experiences and aspirations of students, striving to understand and empathize with their perspectives and address their challenges and concerns.
-    * **Potential Alignment** - A larger and wider set of resources and capabilities are needed to meet the diverse needs of a very diverse campus.
+    * **Potential Alignment** - A larger and wider set of resources and capabilities are needed to meet the diverse needs of a very diverse campus.  Despite the compound noun "Research Technology", nearly all resources are available for instruction or general learning.  Additionally, that use is not just allowed and enabled but encouraged and specifically supported.
 
   * Equity-Driven - Approach all aspects of the Framework through an equity lens, identifying and addressing disparities in every decision, strategy and action.
     * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium] (MS-CC), exist specifically to assist MSI/HSI institutions with using HPC resources and developing appropriate support structures.
