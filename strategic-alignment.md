@@ -34,7 +34,7 @@ This is a preliminary draft of the potential alignments between High Performance
     * **Potential Alignment** - As to capital, nearly all HPC resources are already funded (e.g., CENIC) at the network-level and funded by grants (e.g., NSF) at the systems- and application-level.  As to labor, none beyond what might be desirable to support faculty would be needed to support students.
 
   * Personalized Journeys to Success - Every student will have a digitally-enhanced, personalized, and streamlined experience to support timely degree completion.
-    * **Potential Alignment** - These HPC resources are, by definition, digitally enhanced.  Students can have their own accounts, even just for learning and instruction.  Making it streamlined is harder but doable.
+    * **Potential Alignment** - These HPC resources are, by definition, digitally enhanced.  Students can have their own accounts, even just for learning and instruction.  Making access and support across any given analytical workflow lifecycle streamlined is harder but doable.
 
   * Personalized Journeys to Success - Every student will have clear curricular and co-curricular pathways to their academic career goals.
     * **Potential Alignment** - Not all pathways involve using HPC resources.  But for those that do, more outreach, documentation, and support can only help.
