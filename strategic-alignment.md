@@ -54,7 +54,7 @@ We prioritize student success by providing relevant and engaging physical and vi
 Priorities:
 
   * Establish new methods to engage students through reference, research consultations, instruction, outreach, and digital learning objects, with a focus on a robust information literacy program.
-    * **Potential Alignment** - There is always something new to learn and use with HPC resources.  A student can actually build a custom, multi-billion parameter AI model for academic purposes.
+    * **Potential Alignment** - There is always something new to learn and use with HPC resources.  While some student-experts can use many HPC resources without help, some student-beginners will benefit from consultations and related activities.  A student can actually build a custom, multi-billion parameter AI model for academic purposes.
 
   * Encourage faculty to embrace the CSU’s Affordable Learning Solutions (AL$) initiative and adopt Open Educational Resources or library-provided materials to provide students free access to necessary course content.
     * **Potential Alignment** - All HPC resources are available and no chargeback to any individual or unit, including even the use public hyperscalers (such as AWS, GCP, MS-Azure, OCI, etc.) using Cloudbank2 as the Resource Provider under ACCESS-CI.
