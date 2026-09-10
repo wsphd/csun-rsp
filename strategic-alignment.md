@@ -17,13 +17,13 @@ This is a preliminary draft of the potential alignments between High Performance
     * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium] (MS-CC), exist specifically to assist MSI/HSI institutions with using HPC resources and developing appropriate support structures.
 
   * Data-Informed - Use data to inform recommendations, leveraging analytical insights to refine the approach and measure outcomes.
-    * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as IU Jetstream2 all provide usage data.
+    * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as IU Jetstream2 all provide usage data.  In the short-run, we might need to contact faculty for usage data.
 
   * Collaborative - Fully engage the CSU and statewide stakeholders, understanding and accounting for the diversity and identity of each university.
-    * **Potential Alignment** - CSU Tide, weekly meetings with NRP engineering staff, and regular IU Jetstream office hours are open and free to all.
+    * **Potential Alignment** - CSU Tide, weekly meetings with NRP engineering staff, and regular IU Jetstream office hours, among many others, are open and free to all.
 
   * Transparent - Foster trust and accountability by consistently communicating in an open manner, making sure decision-making, processes and actions are accessible and understandable to all stakeholders.
-    * **Potential Alignment** - This document is public.  CSUN IT maintains a public, introductory web page on Research Technology.  Wayne Smith maintains an public, extensive web page on Research Technology.
+    * **Potential Alignment** - This document is public.  CSUN IT maintains a public, introductory web page on Research Technology.  Wayne Smith maintains a public, extensive web page on HPC Resoures and Capabilities.
 
 ## Vision (new, June 9, 2026)
 
