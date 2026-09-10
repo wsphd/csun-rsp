@@ -94,10 +94,10 @@ Priorities:
     * **Potential Alignment** - An indirect benefit of using HPC resources is that the campus is helping to build the underlying workforce pipeline to ensure that there are more and better candidates for positions that more fully represent the diversity of the community and society.
 
   * Support library employees’ professional development through continuing education, leadership training, and mentoring, and acknowledge the contributions of those who further the Library’s mission, vision, values, and strategic priorities.
-    * **Potential Alignment** - Skills, knowledge, and abilities related to HPC resources is critical to this goal, at least for some employees.
+    * **Potential Alignment** - Skills, knowledge, and abilities related to HPC resources is critical to meeting this goal, at least for some employees.
 
   * Advocate for collaboration within and between library teams through shared goals, leadership, and cooperation, to expand innovation in all library areas.
-    * **Potential Alignment** - The use of HPC resources, as needed, is a critical part of achieving this goal.
+    * **Potential Alignment** - The use of HPC resources, as needed, could be a critical part of achieving this goal.  It partly depends on the institutional posture towards research in general and computationally-intensive resource specifically.
 
   * Explore new strategies to continuously improve the user experience through transformative collections, technical services, access services, research and instruction support, technologies, and renovated spaces and furnishings.
     * **Potential Alignment** - Again, the use of HPC resources, as needed, is a critical part of achieving the technical and technological components of this goal over time.
@@ -111,7 +111,7 @@ We strive to nurture a culture of caring and belonging, reinforcing partnerships
 Priorities:
 
   * Provide the broader community access to the University Library’s resources, technology, services, and public spaces whenever licensing, resource sharing agreements, and other policies permit.
-    * **Potential Alignment** - Right now, these HPC resources are limited to faculty and students.  It's possible, however, that CSU-TIDE (JupyterHub) could be used by the community (it can be through City- and County-provided Libraries).
+    * **Potential Alignment** - Currently, these HPC resources are limited to faculty and students (a more honest response is that this potential alignment needs to be studied further).  It's possible, however, that CSU-TIDE (JupyterHub) could be used by the community (it can be through City- and County-provided Libraries).
 
   * Promote library outreach activities like tours and invitations to special events and exhibits, and offer library instruction and research assistance to local high schools to help attract prospective students to CSUN.
     * **Potential Alignment** - For faculty and students, HPC resources (at a high level) could be incorporated into such offerings.
