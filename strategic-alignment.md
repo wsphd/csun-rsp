@@ -31,7 +31,7 @@ This is a preliminary draft of the potential alignments between High Performance
     * **Potential Alignment** - There are plenty of positions, including in higher education, for individuals with Research, Data, CyberInfrastructure, and HPC skills, knowledge, and abilities.
 
   * Affordability - Every student in California will be able to afford the total cost of a CSU degree.
-    * **Potential Alignment** - As to capital, nearly all of it is already funded (e.g., CENIC) and funded by grants (e.g., NSF).  As to labor, none beyond what might be needed to support faculty would be needed to support students.
+    * **Potential Alignment** - As to capital, nearly all HPC resources are already funded (e.g., CENIC) at the network-level and funded by grants (e.g., NSF) at the systems- and application-level.  As to labor, none beyond what might be desirable to support faculty would be needed to support students.
 
   * Personalized Journeys to Success - Every student will have a digitally-enhanced, personalized, and streamlined experience to support timely degree completion.
     * **Potential Alignment** - These HPC resources are, by definition, digitally enhanced.  Students can have their own accounts, even just for learning and instruction.  Making it streamlined is harder but doable.
