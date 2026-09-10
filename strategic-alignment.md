@@ -141,16 +141,16 @@ Priorities:
   * Implied (Implicit, e.g., in the technology stack)
 
 
-# Department-level (unk, tbd)
+# Department-level (tbd)
 
   * Expressed (Explicit, e.g. in the stated, department-level goals)
 
   * Implied (Implicit, e.g., in the technology stack)
 
 
-# Inidividual-level (unk, tbd)
+# Inidividual-level (tbd)
 
-  * Expressed (Explicit, e.g. in the CV, Resume, Github repos, academic/professional societies, affinity groups, NSF/NIH panels, etc.)
+  * Expressed (Explicit, e.g. in the CV, Resume, Github repositories, academic/professional societies, discipline affinity groups, NSF/NIH panels, aspirational research streams, etc.)
 
   * Implied (Implicit, e.g., large number of GPUs/TPUs/FPGAs used, WAN bandwidth used, collaboration partners, etc.)
 
