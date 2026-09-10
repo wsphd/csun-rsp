@@ -71,10 +71,10 @@ We support traditional and increasingly interdisciplinary research and innovatio
 Priorities:
 
   * Expand institutional repository services, copyright advisory referrals, and research consultations with librarian subject specialists to meet the needs of CSUN students and scholars.
-    * **Potential Alignment** - Integrating library consultations are increasingly important as data grows and output/results need to be persistent and meet funder requirements.
+    * **Potential Alignment** - Integrated library consultations are increasingly important as data grows and output/results need to be persistent and meet funder requirements (e.g., FAIR).
 
   * Develop services to support data management and preservation, data visualization, data mining, data analysis, and knowledge sharing.
-    * **Potential Alignment** - For analytical workflows beyond the capabilities of a laptop, HPC resources will be critical.  Even on a laptop, many of same skills are needed.
+    * **Potential Alignment** - For analytical workflows beyond the capabilities of a laptop, HPC resources will be critical to meeting this goal.  Even on a laptop, many of same skills are needed for productivity and success (especially for reuse, replication, reproducibility, and robustness).
 
   * Broaden access to existing Special Collections & Archives collections, encourage public exhibits derived from these collections, and acquire new archival collections to enrich teaching, learning, and research.
     * **Potential Alignment** - Some artifacts from HPC analysis will be only digital.  Moreover, any researcher's output is potentially another researcher's input.  As this cycle evolves, the amount of data and associated computation need will only increase.
