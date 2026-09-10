@@ -57,7 +57,7 @@ Priorities:
     * **Potential Alignment** - There is always something new to learn and use with HPC resources.  While some student-experts can use many HPC resources without help, some student-beginners will benefit from consultations and related activities.  A student can actually build a custom, multi-billion parameter AI model for academic purposes.
 
   * Encourage faculty to embrace the CSU’s Affordable Learning Solutions (AL$) initiative and adopt Open Educational Resources or library-provided materials to provide students free access to necessary course content.
-    * **Potential Alignment** - All HPC resources are available and no chargeback to any individual or unit, including even the use public hyperscalers (such as AWS, GCP, MS-Azure, OCI, etc.) using Cloudbank2 as the Resource Provider under ACCESS-CI.
+    * **Potential Alignment** - All HPC resources are available and no chargeback to any individual or unit, including even the use of public hyperscalers (such as AWS, GCP, MS-Azure, OCI, etc.) using Cloudbank2 as the Resource Provider under ACCESS-CI.
 
   * Enhance existing technologies and resources within the Learning Commons and other public areas, and establish digital innovation and scholarship services and spaces to support embodied and integrative learning.
     * **Potential Alignment** - HPC resources are critical to meeting this goal, with the term "Learning Commons" being both physical and virtual.
