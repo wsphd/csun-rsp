@@ -4,6 +4,7 @@
 ## <div align = center>preliminary draft, 2026-09-03</div>
 <br><br>
 
+This is a preliminary draft of the potential alignments between High Performance Computing (HPC) and various goals at various organizational levels.  Errors and ommissions are mine (Wayne).
 
 # Systemwide-level [CSU Student Success Framework](https://www.calstate.edu/impact-of-the-csu/diversity/Pages/Student-Success-Framework.aspx)
 
@@ -13,7 +14,7 @@
     * **Potential Alignment** - A larger set of resources and capabilities should be expected to meet the needs of a very diverse campus.
 
   * Equity-Driven - Approach all aspects of the Framework through an equity lens, identifying and addressing disparities in every decision, strategy and action.
-    * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium](https://ms-cc.org/) (MS-CC), exist specifically to assist MSI/HSI institutions.
+    * **Potential Alignment** - Affinity groups, such as the [Minority Serving-Cyberinfrastructure Consortium] (MS-CC), exist specifically to assist MSI/HSI institutions.
 
   * Data-Informed - Use data to inform recommendations, leveraging analytical insights to refine the approach and measure outcomes.
     * **Potential Alignment** - Resources such as NRP, CSU Tide, and ACCESS Resource Providers such as IU Jetstream2 all provide usage data.
