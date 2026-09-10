@@ -28,7 +28,7 @@ This is a preliminary draft of the potential alignments between High Performance
 ## Vision (new, June 9, 2026)
 
   * The CSU Promise - Every CSU student will graduate with the opportunity for a first career job and/or a clear path to further study.
-    * **Potential Alignment** - There are plenty of positions, including in higher education, for individuals with Research, Data, CyberInfrastructure, and High-Performance Computing skills, knowledge, and abilities.
+    * **Potential Alignment** - There are plenty of positions, including in higher education, for individuals with Research, Data, CyberInfrastructure, and HPC skills, knowledge, and abilities.
 
   * Affordability - Every student in California will be able to afford the total cost of a CSU degree.
     * **Potential Alignment** - As to capital, nearly all of it already funded (e.g., CENIC) and funded by grants (e.g., NSF).  As to labor, none beyond what might be needed to support faculty would be needed to support students.
